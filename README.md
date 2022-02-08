@@ -2,7 +2,13 @@
 
 Fukuoka.rb 234回記念ロゴコンペ 応募者向けのプレゼンを公開するリポジトリです。
 
-## コミュニティの参加者向け: 投票の仕方
+## コミュニティの参加者向け
+
+### ロゴ候補のご確認
+
+* [このリポジトリのIssue](https://github.com/fukuokarb/logo-candidates/issues) よりご確認いただけます。ごゆっくりご覧ください。
+
+### 投票の仕方
 
 * 投票の意思のある方は、Fukuoka.rbの作成した以下の募集ページに「**投票者枠**」として登録してください。
   * https://fukuokarb.connpass.com/event/239176/
